@@ -3,7 +3,7 @@
 ## Primer modelo
 Primer modelo creado con Unity
 
-![Captura de pantalla 2025-04-12 005936](https://github.com/user-attachments/assets/f0b64af5-b128-4209-9fcd-03b05eefafb9)
+![Captura de pantalla 005936](https://github.com/user-attachments/assets/f0b64af5-b128-4209-9fcd-03b05eefafb9)
 
 
 ## Personajes iniciales
@@ -38,14 +38,14 @@ Posibles habilidades:
 - Usa su pelo largo para pelear.
 - Habilidad especial: Empieza a girar alargando su pelo haciendo daño en área.
 
-![Captura de pantalla 2025-04-12 012435](https://github.com/user-attachments/assets/8992eebd-7332-4858-920a-f3e8d8d0960a)
+![Captura de pantalla 012435](https://github.com/user-attachments/assets/8992eebd-7332-4858-920a-f3e8d8d0960a)
 
 
 ## Título del juego
 
 Nombre inspirado en ratones y en los personajes históricos o emblemáticos que representan. 
 
-![ChatGPT Image 12 abr 2025, 01_19_19](https://github.com/user-attachments/assets/9b2947a6-6e5e-4991-b7fd-99b018d1da8a) 
+![Captura de pantalla 012673](https://github.com/user-attachments/assets/9b2947a6-6e5e-4991-b7fd-99b018d1da8a) 
 
 
 ## Posibles escenarios de pelea
