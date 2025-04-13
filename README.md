@@ -8,6 +8,8 @@ Primer modelo creado con Unity
 
 ## Personajes iniciales
 
+![Captura de pantalla 012435](https://github.com/user-attachments/assets/8992eebd-7332-4858-920a-f3e8d8d0960a)   
+
 🐭 Caballero Romano  
 Nombre: Maximus Cheesus  
 Descripción: "Forjado en la arena y alimentado a base de queso curado. Lucha por el honor, la gloria... y el último trozo de gouda."  
@@ -36,9 +38,19 @@ Descripción: "No dejes que su melena de oro y su voz dulce te engañen. Esta pr
 Posibles habilidades:  
 - Pelea básica con puños.
 - Usa su pelo largo para pelear.
-- Habilidad especial: Empieza a girar alargando su pelo haciendo daño en área.
+- Habilidad especial: Empieza a girar alargando su pelo haciendo daño en área.  
 
-![Captura de pantalla 012435](https://github.com/user-attachments/assets/8992eebd-7332-4858-920a-f3e8d8d0960a)
+## Posibles futuros personajes  
+
+![ratones prueba](https://github.com/user-attachments/assets/cfc10604-06d8-440f-af88-2a8a3f0f538f)
+
+
+Ratón Napoleón con un sombrero enorme y ataques de carga.  
+Ratón Einstein que lanza rayos eléctricos (tipo energía).  
+Ratón Cleopatra con un látigo de serpiente.  
+Ratón Da Vinci que vuela con alas de planeador y lanza inventos.  
+
+Peleando en escenarios como una “Gran Biblioteca”, “Sala del Tiempo”, o un “Museo Escolar”.  
 
 
 ## Título del juego
@@ -53,14 +65,23 @@ Nombre inspirado en ratones y en los personajes históricos o emblemáticos que 
 🏛️ Mapa 1: Coliseo del Queso Eterno (Caballero Romano)  
 - Un coliseo circular de piedra, con gradas rotas, estandartes rojos y estatuas de ratones guerreros.  
 - El suelo tiene trampas: agujeros que se abren, lanzas que emergen del suelo.  
-- Obstáculos móviles: carros romanos que ruedan aleatoriamente.  
+- Obstáculos móviles: carros romanos que ruedan aleatoriamente.
+
+![Coliseo](https://github.com/user-attachments/assets/5245f05d-c9e0-46b5-92d4-53a254284484)
+
 
 🎸 Mapa 2: Escenario Caótico (Ratón Rockero)  
 - Un escenario de concierto con luces de neón, altavoces enormes, y una multitud de ratones bailando.  
 - Las plataformas tiemblan al ritmo de la música.  
-- A veces cae una bola de discoteca que rebota y empuja jugadores.   
+- A veces cae una bola de discoteca que rebota y empuja jugadores.
+
+![axel roedor](https://github.com/user-attachments/assets/6caac9b0-2a1a-4577-bc2a-e5e3de7e14e4)
+
 
 👑 Mapa 3: Torre de los Sueños (Princesa tipo Rapunzel)  
 - Un jardín encantado en la base de una torre rosa con cabellos dorados colgando.  
 - Ponis que pueden empujar a un jugador.  
-- Trampas con flores que lanzan polen y relentizan a los personajes.  
+- Trampas con flores que lanzan polen y ralentizan a los personajes.
+
+![cheddzerella](https://github.com/user-attachments/assets/8f7ddc4a-cd24-4b12-a53a-c7689a779cab)
+
