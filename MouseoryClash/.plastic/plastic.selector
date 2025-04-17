@@ -1,0 +1,4 @@
+repository "MouseoryClash/MouseoryClash@6872744214713@cloud"
+  path "/"
+    br "/main"
+    co "/main"
