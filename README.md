@@ -1,10 +1,19 @@
 # Mouseory Clash
 
 ## Primer modelo
-Primer modelo creado con Unity
+Modelo generado por chat gpt  
 
-![Captura de pantalla 005936](https://github.com/user-attachments/assets/f0b64af5-b128-4209-9fcd-03b05eefafb9)
+![raton base](https://github.com/user-attachments/assets/b828a984-eb75-406d-800e-cddf77502488)
+![perfil](https://github.com/user-attachments/assets/83a4c17f-ef30-40e6-9a0f-f2639f79d8ba)
 
+
+Primer modelo creado con Blender
+
+![modelo final final](https://github.com/user-attachments/assets/53f57f3f-ee21-42b3-bccc-52f6da74c8ed)  
+
+Modelo mejorado y pintado con Blender  
+
+![image](https://github.com/user-attachments/assets/8a305853-1a31-4676-8481-46e65d08f800)  
 
 ## Personajes iniciales
 
@@ -67,7 +76,11 @@ Nombre inspirado en ratones y en los personajes históricos o emblemáticos que 
 - El suelo tiene trampas: agujeros que se abren, lanzas que emergen del suelo.  
 - Obstáculos móviles: carros romanos que ruedan aleatoriamente.
 
-![Coliseo](https://github.com/user-attachments/assets/5245f05d-c9e0-46b5-92d4-53a254284484)
+![Coliseo](https://github.com/user-attachments/assets/5245f05d-c9e0-46b5-92d4-53a254284484)  
+
+Base del coliseo en Blender  
+
+![base modelo coliseo](https://github.com/user-attachments/assets/b64c2d2a-6ad2-4945-8859-43d918b4859d)  
 
 
 🎸 Mapa 2: Escenario Caótico (Ratón Rockero)  
