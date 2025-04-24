@@ -13,7 +13,8 @@ Primer modelo creado con Blender
 
 Modelo mejorado y pintado con Blender  
 
-![image](https://github.com/user-attachments/assets/8a305853-1a31-4676-8481-46e65d08f800)  
+![defff](https://github.com/user-attachments/assets/b7cbaf5d-2a06-45f1-9a28-ed27814bbe3b)  
+
 
 ## Personajes iniciales
 
