@@ -9,8 +9,11 @@ Modelo generado por chat gpt
 
 Primer modelo creado con Blender
 
-![modelo final final](https://github.com/user-attachments/assets/53f57f3f-ee21-42b3-bccc-52f6da74c8ed)
+![modelo final final](https://github.com/user-attachments/assets/53f57f3f-ee21-42b3-bccc-52f6da74c8ed)  
 
+Modelo mejorado y pintado con Blender  
+
+![image](https://github.com/user-attachments/assets/8a305853-1a31-4676-8481-46e65d08f800)  
 
 ## Personajes iniciales
 
