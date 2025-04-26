@@ -34,6 +34,11 @@ Posibles habilidades:
 - Desenvaina su espada para pelear.
 - Habilidad especial: Se cubre de escudos y estos lanzan flechas desde dentro haciendo daño en área.
 
+Modelo final de ratón romano.  
+
+![Captura de pantalla 2025-04-26 194856](https://github.com/user-attachments/assets/2e32ed64-b3d6-4b06-9165-b0156693552a)  
+
+
 🐭 Rockero  
 Nombre: Axel Roedor  
 Descripción: "Con su guitarra en forma de trampa para ratones, Axel sacude escenarios y cabezas por igual. Solo responde a los riffs más épicos."  
