@@ -15,7 +15,7 @@ Modelo mejorado y pintado con Blender
 
 ![defff](https://github.com/user-attachments/assets/b7cbaf5d-2a06-45f1-9a28-ed27814bbe3b)  
 
-Modelo base definitivo con huesos para animación.  
+Modelo base definitivo con huesos para animación. (modelo_base_final_con_huesos.fbx)    
 
 ![modelo base final con huesos](https://github.com/user-attachments/assets/bfd84be0-4f48-47a1-8cad-45e5162738b8)  
 
