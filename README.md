@@ -92,6 +92,14 @@ Base del coliseo en Blender
 
 ![base modelo coliseo](https://github.com/user-attachments/assets/b64c2d2a-6ad2-4945-8859-43d918b4859d)  
 
+Coliseo fase media en Blender  
+
+![Captura de pantalla 2025-04-27 144423](https://github.com/user-attachments/assets/589ed0cd-6a36-4bc0-a0c5-6ad31841b744)  
+
+Coliseo terminado en Blender  
+
+![Captura de pantalla 2025-04-28 023502](https://github.com/user-attachments/assets/1ea78b35-53d4-4663-9fdc-55174964eaf4)  
+
 
 🎸 Mapa 2: Escenario Caótico (Ratón Rockero)  
 - Un escenario de concierto con luces de neón, altavoces enormes, y una multitud de ratones bailando.  
