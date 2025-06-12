@@ -800,7 +800,7 @@ MonoBehaviour:
   teclaAtras: 273
   teclaIzquierda: 276
   teclaDerecha: 275
-  teclaAtacar: 113
+  teclaAtacar: 112
   velocidad: 40
   velocidadRotacion: 200
   velocidadAnimacionWalk: 0.5
