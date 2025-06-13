@@ -801,7 +801,7 @@ MonoBehaviour:
   teclaIzquierda: 276
   teclaDerecha: 275
   teclaAtacar: 112
-  velocidad: 40
+  velocidad: 15
   velocidadRotacion: 200
   velocidadAnimacionWalk: 0.5
   velocidadAnimacionHitUno: 1
@@ -2068,7 +2068,7 @@ MonoBehaviour:
   teclaIzquierda: 97
   teclaDerecha: 100
   teclaAtacar: 113
-  velocidad: 40
+  velocidad: 15
   velocidadRotacion: 200
   velocidadAnimacionWalk: 2
   velocidadAnimacionHitUno: 5
