@@ -142,11 +142,11 @@ public class GameManager : MonoBehaviour
         string ganador = "";
         if (deadCharacter == romanoGameObject)
         {
-            ganador = "Princesa";
+            ganador = "Cheddarella";
         }
         else if (deadCharacter == princesaGameObject)
         {
-            ganador = "Romano";
+            ganador = "Maximus Cheesus";
         }
         else
         {
