@@ -146,7 +146,7 @@ public class GameManager : MonoBehaviour
         }
         else if (deadCharacter == princesaGameObject)
         {
-            ganador = "Maximus Cheesus";
+            ganador = "Maximus";
         }
         else
         {
